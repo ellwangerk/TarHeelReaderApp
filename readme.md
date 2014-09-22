@@ -1,4 +1,4 @@
-#  Tar Heel Reader Theme
+#  Tar Heel Reader App
 
 ## Summary
 
